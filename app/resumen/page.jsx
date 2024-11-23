@@ -19,31 +19,31 @@ const about = {
     description: "Breve resumen sobre los datos encontrados en Internet.",
     info: [
         {
-            fieldName: "Name",
+            fieldName: "Nombre:",
             fieldValue : "Dot Dager o Mariano Villa"
         },
         {
-            fieldName: "Phone",
+            fieldName: "Telefono:",
             fieldValue : "+54 (PARA QUE LO QUERES) 123"
         },
         {
-            fieldName: "Experiencia",
+            fieldName: "Experiencia:",
             fieldValue : "12 Años de puros pepinos"
         },
         {
-            fieldName: "Nationality",
+            fieldName: "Nationality:",
             fieldValue : "Argentino PAPA"
         },
         {
-            fieldName: "Email",
+            fieldName: "Correo:",
             fieldValue : "tuviejaputaconmipingoseahoga@gmail.com"
         },
         {
-            fieldName: "Freelance",
-            fieldValue : "Ponele que libre."
+            fieldName: "Freelancer:",
+            fieldValue : "Disponible o Ponele que libre."
         },
         {
-            fieldName: "Languages",
+            fieldName: "Idiomas:",
             fieldValue : "Extensa sabiduria sobre todo lo Falico. "
         },
     ]

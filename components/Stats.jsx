@@ -15,7 +15,7 @@ const stats = [
 
     {
         num: 8,
-        text: "Paginas en puro HTML",   
+        text: "Paginas en puro y duro HTML",   
     },
 
     {
