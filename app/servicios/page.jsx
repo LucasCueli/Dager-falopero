@@ -70,13 +70,14 @@ const Services = () => {
                     ))}
                 </motion.div>
 
-                <h1 className="text-4xl font-semibold mt-[250px]">*Insertar voz de Morfeo*:</h1>
+                
                 <motion.div
                     initial={{ opacity: 0 }}
                     animate={{
                         opacity: 1,
                         transition: { delay: 2.4, duration: 0.4, ease: "easeIn" },
                 }}>
+                    <h1 className="text-4xl font-semibold mt-[250px]">*Insertar voz de Morfeo*:</h1>
                     <div className="flex flex-col items-center mt-12 gap-6">
                         <h1 className="text-2xl font-semibold"> 
                             1_ Boton Azul: Permitimos al sujeto permanecer en la realidad fabricada de HTML5.
