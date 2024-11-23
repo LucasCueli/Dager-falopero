@@ -69,16 +69,13 @@ const Services = () => {
                         </div>
                     ))}
                 </motion.div>
-                
+                <br/>
                 <br/>
                 <br/>
                 <br/>
                 <br/>
                 <br/>
                 <h1 className="text-4xl font-semibold">La decision suprema:</h1>
-                <br/>
-
-
                 <motion.div
                     initial={{ opacity: 0 }}
                     animate={{
