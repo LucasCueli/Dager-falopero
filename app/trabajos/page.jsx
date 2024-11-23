@@ -50,6 +50,16 @@ const projects = [
         live: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         github: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     },
+    {
+        num: '04',
+        category: 'Observar Pepinos',
+        title: 'project 4',
+        description: 'La imagen describe a la perfeccion lo que esta por suceder.',
+        stack: [{ name: "10 cm "}, { name: "15 cm "}, { name: "20 cm "}, { name: "35 golosos cm "}],
+        image: '/assets/work/thumb4.png',
+        live: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        github: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    },
 ];
 
 
