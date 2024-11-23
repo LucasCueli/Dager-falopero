@@ -31,7 +31,7 @@ const about = {
             fieldValue : "12 Años de puros pepinos"
         },
         {
-            fieldName: "Nationality:",
+            fieldName: "Nacionalidad:",
             fieldValue : "Argentino PAPA"
         },
         {
