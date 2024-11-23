@@ -94,7 +94,7 @@ const education = {
 //skills data
 const skills = {
     title: "Mis habilidades",
-    description: "Si, solo sabe HTML 5 y CSS. C# Nunca existio. Fue un sueño",
+    description: "Como podran apreciar tengo una extensa gama de habilidades, sobre todo con pepinos. Amante de C#, musica y libros",
     skillList: [
         {
             icon: <Gibookshelf />,
