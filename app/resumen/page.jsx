@@ -1,10 +1,11 @@
 "use client";
 
-import { GiPickle, Gibookshelf } from "react-icons/gi";
+import { GiPickle } from "react-icons/gi";
 
 import { SiCsharp } from "react-icons/si";
 
 import {
+    FaBookReader,
     FaMusic,
     FaHtml5, 
     FaCss3,
@@ -97,10 +98,6 @@ const skills = {
     description: "Como podran apreciar tengo una extensa gama de habilidades, sobre todo con pepinos. Amante de C#, musica y libros",
     skillList: [
         {
-            icon: <Gibookshelf />,
-            name: "Gran Filosofo y lector", 
-        },
-        {
             icon: <FaMusic />,
             name: "Compositor, cantante, loopero y mucho mas.", 
         },
@@ -109,8 +106,8 @@ const skills = {
             name: "C putas shard", 
         },
         {
-            icon: <GiPickle />,
-            name: "Pepinos.", 
+            icon: <FaBookReader />,
+            name: "Gran Filosofo y lector", 
         },
         {
            icon: <FaHtml5 />,
@@ -119,7 +116,20 @@ const skills = {
         {
             icon: <FaCss3 />,
             name: "css 3", 
+        },        
+        {
+            icon: <GiPickle />,
+            name: "Pepinos.", 
         },
+        {
+            icon: <GiPickle />,
+            name: "Pepinos.", 
+        },
+        {
+            icon: <GiPickle />,
+            name: "Pepinos.", 
+        },
+
     ]
 };
 
