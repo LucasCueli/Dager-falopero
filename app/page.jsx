@@ -15,7 +15,7 @@ const Inicio = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">Catador de Pepinos, Musico y Programador</span>
             <h1 className="h1 mb-6">
-              Buenas a todos, aca <br /> <span className="text-accent">Dot Dagger</span>
+              Buenas a todos, aca <br /> <span className="text-accent">Dot Dager</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
             Catador profesional de pepinos en busca del crunch perfecto, músico que convierte cualquier ruido en melodía, y programador que a veces encuentra más bugs que líneas de código funcional. Maestro del equilibrio entre creatividad, lógica y un buen sentido del humor.

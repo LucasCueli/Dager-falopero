@@ -50,8 +50,8 @@ const Contacto = () => {
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                                 <Input type="firstname" placeholder="Tu nombre." />
                                 <Input type="lastname" placeholder="Tu apellido." />
-                                <Input type="email" placeholder="Tu correo." />
-                                <Input type="phone" placeholder="El numero de tu hermana." />
+                                <Input type="email" placeholder="Tu correo electronico." />
+                                <Input type="phone" placeholder="Tu cuenta bancaria." />
                             </div>
                             {/* select */}
                             <Select>

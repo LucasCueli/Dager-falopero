@@ -44,7 +44,7 @@ const MobileNav = () => {
                 <div className='mt-32 mb-40 text-center text-2xl'>
                     <Link href="/">
                         <h1 className='text-4xl font-semibold'>
-                            Dot Dagger
+                            Dot Dager
                             <span className='text-accent'>
                                 .
                             </span>

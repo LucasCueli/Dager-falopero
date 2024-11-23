@@ -10,11 +10,11 @@ import { SiTailwindcss, SiNodedotjs } from 'react-icons/si';
 //about date
 const about = {
     title: 'Sobre Mi',
-    description: "Mas Lorem ipsum para que te entre en el hoyo",
+    description: "Breve resumen sobre los datos encontrados en Internet.",
     info: [
         {
             fieldName: "Name",
-            fieldValue : "Dot Dagger o Mariano Villa"
+            fieldValue : "Dot Dager o Mariano Villa"
         },
         {
             fieldName: "Phone",
