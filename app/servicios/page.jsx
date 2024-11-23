@@ -123,7 +123,7 @@ const Services = () => {
                                     height={showMusic && showLumberjack ? "300" : "380"}
                                     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
                                     loading="lazy"
-                                    className="rounded-md border-2 border-blue-500 shadow-lg"
+                                    className="rounded-md"
                                 ></iframe>
                             </div>
                         )}
@@ -134,7 +134,7 @@ const Services = () => {
                                     src="https://tbot.xyz/lumber/"
                                     width={showMusic && showLumberjack ? "100%" : "30%"}
                                     height={showMusic && showLumberjack ? "600" : "800"}
-                                    className="rounded-md border-2 border-green-500 shadow-lg"
+                                    className="rounded-md"
                                 ></iframe>
                             </div>
                         )}
