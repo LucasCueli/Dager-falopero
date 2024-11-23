@@ -1,6 +1,11 @@
 "use client";
 
+import { GiPickle, Gibookshelf } from "react-icons/gi";
+
+import { SiCsharp } from "react-icons/si";
+
 import {
+    FaMusic,
     FaHtml5, 
     FaCss3,
 } from 'react-icons/fa';
@@ -91,6 +96,22 @@ const skills = {
     title: "Mis habilidades",
     description: "Si, solo sabe HTML 5 y CSS. C# Nunca existio. Fue un sueño",
     skillList: [
+        {
+            icon: <Gibookshelf />,
+            name: "Gran Filosofo y lector", 
+        },
+        {
+            icon: <FaMusic />,
+            name: "Compositor, cantante, loopero y mucho mas.", 
+        },
+        {
+            icon: <SiCsharp />,
+            name: "C putas shard", 
+        },
+        {
+            icon: <GiPickle />,
+            name: "Pepinos.", 
+        },
         {
            icon: <FaHtml5 />,
            name: "html 5", 
