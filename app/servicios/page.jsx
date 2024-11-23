@@ -75,7 +75,7 @@ const Services = () => {
                 <br/>
                 <br/>
                 <br/>
-                <h1 className="text-4xl font-semibold">La decision suprema:</h1>
+                <h1 className="text-4xl font-semibold">*Insertar voz de Morfeo*:</h1>
                 <motion.div
                     initial={{ opacity: 0 }}
                     animate={{
